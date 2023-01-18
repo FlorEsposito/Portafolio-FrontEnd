@@ -1,0 +1,66 @@
+span.prueba{
+    color: grey;
+}
+div.nombre{
+    font-family:"BAHNSCHRIFT CONDENSED";
+    font-weight:bolder;
+    margin-top: -5cm;
+    margin-left: 7cm;
+    
+}
+
+body.a{
+    background-color: #ffc0cb;
+    color:white;
+}
+
+body.b{
+    background-image:url('/output/combinado.jpg') ;
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-attachment:fixed;
+    background-color: white;
+    color:rgb(255, 192, 230);  
+}
+
+/*body.c{
+    background-color: #ffe5f0;
+    color:grey;    
+}*/
+
+img.fotoperfil{
+    margin-top: 20px ;
+    margin-left: 20px ;
+}
+img.logo{
+    margin-left: -3cm;
+    margin-top:3px;
+}
+
+img.facebook{
+    margin-top: 5px;
+}
+
+img.instagram{
+    margin-top: 12px;
+}
+
+img.whatsapp{
+    margin-top: 9px;
+}
+
+a.contacto:hover{
+    color: white;
+    text-decoration:none;
+}
+
+a.contacto{ 
+    color: white;
+    text-decoration: none;
+}
+
+div.dato{
+    margin-top:7px;
+}
+
+
